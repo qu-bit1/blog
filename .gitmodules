@@ -1,0 +1,4 @@
+[submodule "blog/public"]
+	path = blog/public
+	url = git@github.com:qu-bit1/qu-bit1.github.io.git
+	branch = main

@@ -1,0 +1,36 @@
+baseurl = "http://qu-bit1.github.io"
+languageCode = "en-us"
+theme = "hugo-theme-terminal"
+paginate = 5
+summaryLength = 20
+
+[params]
+contentTypeName = "posts"
+themeColor = "pink"
+showMenuItems = 2
+showLanguageSelector = false
+fullWidthTheme = false
+centerTheme = true
+autoCover = true
+showLastUpdated = false
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "terminal"
+    subtitle = "A simple, retro theme for Hugo"
+    
+[languages.en.params.logo]
+  logoText = "~(base) $ whoami"
+  logoHomeLink = "/"
+
+[languages.en.menu]
+  [[languages.en.menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about"
+  [[languages.en.menu.main]]
+    identifier = "blog"
+    name = "blog"
+    url = "/posts"
+
