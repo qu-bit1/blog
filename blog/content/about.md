@@ -22,6 +22,6 @@ interests:
 - math fascinates and seduces me (grades displays that i can only be fascinated)
 
 how i spend my day:
-sometimes stuck in a youtube rabbithole, and sometimes crawling the internet finding stuff to ~~waste my time~~ and fill the ltd. amount of space with ~~irrelevent stuff~~ (irrelevent to the moment) in my head(yk about langlands?)
+sometimes stuck in a youtube rabbithole, and sometimes crawling the internet finding stuff to ~~waste my time~~ and fill the ltd. amount of space with ~~irrelevent stuff~~ (irrelevent at that moment) in my head(yk about langlands?)
 
 
