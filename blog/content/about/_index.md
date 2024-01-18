@@ -1,4 +1,5 @@
 +++
+framed = true
 title = "whoami"
 date = "2023-08-17T15:45:57+05:30"
 author = "kratos"
@@ -21,6 +22,7 @@ i'm currently doing majors in biological sciences and bioengineering at IIT Kanp
 - **my interests:**
     - films (i have a mubi subscription)
     - reading? (currently reading 'before the coffee gets cold')
+    - i love video games (all time fav - bloodborne, tlou, rdr2, uncharted nathan drake triology and 4)
 
 - **_[qubit](https://github.com/qu-bit1)_ interests:**
     - supercool ML stuff
