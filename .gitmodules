@@ -2,3 +2,6 @@
 	path = blog/public
 	url = git@github.com:qu-bit1/qu-bit1.github.io.git
 	branch = main
+[submodule "blog/themes/terminal"]
+	path = blog/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git

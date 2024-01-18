@@ -11,6 +11,7 @@ showFullContent = false
 readingTime = false
 hideComments = false
 color = "" #color from the theme settings
+draft = true
 +++
 
 i wanted to name this post fcukpresentations$thinkpad, to make you wanna ~~kys~~. I presented 2 presentation on the intimate subject of biology(is now the time to \_\_\_?) i fcked in the anatomy one, i was being *casual ÷÷*, biochem one went okayiish, i don't really know what happened, but it's done and i am not the presentation guy, i'm not even a guy to talk with. anyways i saw a thinkpad today and it was cool, the design, the build quality, the keyboard are just soo nice and i regretted my ultimate big brain decision to buy a mac again.

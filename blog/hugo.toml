@@ -1,18 +1,18 @@
 baseurl = "https://qu-bit1.github.io"
 languageCode = "en-us"
-theme = "hugo-theme-terminal"
+theme = "terminal"
 paginate = 5
-summaryLength = 20
+summaryLength = 30
 
 [params]
 contentTypeName = "posts"
-themeColor = "pink"
+themeColor = "red"
 showMenuItems = 2
 showLanguageSelector = false
 fullWidthTheme = false
 centerTheme = true
 autoCover = true
-showLastUpdated = false
+showLastUpdated = true
 
 [languages]
   [languages.en]
@@ -21,8 +21,8 @@ showLastUpdated = false
     subtitle = "A simple, retro theme for Hugo"
     
 [languages.en.params.logo]
-  logoText = "~(base) $ whoami"
-  logoHomeLink = "/"
+  logoText = "don't panic"
+  logoHomeLink = "/about"
 
 [languages.en.menu]
   [[languages.en.menu.main]]
