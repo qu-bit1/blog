@@ -24,6 +24,7 @@ i'm currently doing majors in biological sciences and bioengineering at IIT Kanp
     - films (i have a mubi subscription)
     - reading? (currently reading 'before the coffee gets cold')
     - i love video games (all time fav - bloodborne, tlou, rdr2, uncharted nathan drake triology and 4)
+    - i like listening to music (nirvana, AM, the beatles, radiohead, and hip hop like kendrick etc.., i'll link spotify soon)
 
 - **_[qubit](https://github.com/qu-bit1)_ interests:**
     - supercool ML stuff
@@ -33,7 +34,7 @@ i'm currently doing majors in biological sciences and bioengineering at IIT Kanp
 
 ---
 how i spend my day:
-sometimes stuck in a youtube rabbithole, and sometimes crawling the internet uncovering ~hidden mysteries~ to ~~waste my time~~ and fill the ltd. amount of space with ~~irrelevent stuff~~ in my head(ever heard about langlands?)
+sometimes stuck in a youtube rabbithole, and sometimes crawling the internet uncovering ~hidden mysteries~ to ~~waste my time~~ and fill the ltd. amount of space in my head with ~~irrelevent stuff~~ (ever heard of langlands?)
 
 ---
 to-dos:

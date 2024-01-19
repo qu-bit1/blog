@@ -105,4 +105,4 @@ paginate = 5
 
 [services]
   [services.disqus]
-    shortname = 'disqus_XGdUUccERV'
+    shortname = '@disqus_XGdUUccERV'
