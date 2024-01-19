@@ -18,6 +18,10 @@ i'm sagar arora from new delhi(maybe)
 
 i'm currently doing majors in biological sciences and bioengineering at IIT Kanpur.
 
+- ig - [sire.qubit](https://www.instagram.com/sire.qubit/)
+- discord - @qu.bit
+- _x_ - [quubitt](https://twitter.com/quubitt)
+
 ---
 - **my interests:**
     - i love and adore good coffee (apparently i'm spending way too much on ground coffee and chocolates these days)
