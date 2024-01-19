@@ -18,9 +18,11 @@ i'm sagar arora from new delhi(maybe)
 
 i'm currently doing majors in biological sciences and bioengineering at IIT Kanpur.
 
+- github - [qu-bit1](https://github.com/qu-bit1)
 - ig - [sire.qubit](https://www.instagram.com/sire.qubit/)
 - discord - @qu.bit
-- _x_ - [quubitt](https://twitter.com/quubitt)
+- spotify - [cataract](https://open.spotify.com/user/31er4il6lxtrqfmluryg6s7dztq4)
+- letterboxd - [guess the username now lol](https://letterboxd.com/qubit1/)
 
 ---
 - **my interests:**
