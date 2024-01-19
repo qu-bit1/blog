@@ -67,7 +67,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "don't panic"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "the hitchhikers guide to sagar's life"
     owner = ""
     keywords = ""
     copyright = ""
