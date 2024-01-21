@@ -21,6 +21,7 @@ i'm currently doing majors in biological sciences and bioengineering at IIT Kanp
 - github - [qu-bit1](https://github.com/qu-bit1)
 - ig - [sire.qubit](https://www.instagram.com/sire.qubit/)
 - discord - @qu.bit
+- x - [dw,removed all the embarrasing tweets i made in 2020](https://twitter.com/quubitt)
 - spotify - [cataract](https://open.spotify.com/user/31er4il6lxtrqfmluryg6s7dztq4)
 - letterboxd - [guess the username now lol](https://letterboxd.com/qubit1/)
 
