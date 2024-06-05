@@ -17,6 +17,7 @@ why this(a new conondrum) -> i made this to help you guys solve world problems
 i'm sagar arora from new delhi
 
 i'm currently doing majors in biological sciences and bioengineering at IIT Kanpur.
+
 ---
 - **my interests:**
     - i love and adore good coffee (apparently i'm spending way too much on ground coffee and chocolates these days)
@@ -24,7 +25,8 @@ i'm currently doing majors in biological sciences and bioengineering at IIT Kanp
     - reading? (currently reading '~before the coffee gets cold~' 'moby dick')- hitchhiker's guide to galaxy all time favorite
     - i love video games (all time fav - bloodborne, tlou, rdr2, uncharted nathan drake triology and 4)
     - i like listening, sharing, and talking about music. hit me up for a jam session or recommendations :) 
-
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4jpjucnKBDLyHSI2L6XV9b?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    
 - **_[qubit](https://github.com/qu-bit1)_ interests:**
     - supercool ML stuff
     - linux 
