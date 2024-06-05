@@ -14,24 +14,16 @@ color = "" #color from the theme settings
 why this(a new conondrum) -> i made this to help you guys solve world problems
 
 ---
-i'm sagar arora from new delhi(maybe)
+i'm sagar arora from new delhi
 
 i'm currently doing majors in biological sciences and bioengineering at IIT Kanpur.
-
-- github - [qu-bit1](https://github.com/qu-bit1)
-- ig - [sire.qubit](https://www.instagram.com/sire.qubit/)
-- discord - @qu.bit
-- x - [dw,removed all the embarrasing tweets i made in 2020](https://twitter.com/quubitt)
-- spotify - [cataract](https://open.spotify.com/user/31er4il6lxtrqfmluryg6s7dztq4)
-- letterboxd - [guess the username now lol](https://letterboxd.com/qubit1/)
-
 ---
 - **my interests:**
     - i love and adore good coffee (apparently i'm spending way too much on ground coffee and chocolates these days)
-    - films (i have a mubi subscription)
-    - reading? (currently reading 'before the coffee gets cold')
+    - films, would recommend - fight club, aftersun, chungking express, in the mood for love, the lighthouse to anyone anytime
+    - reading? (currently reading '~before the coffee gets cold~' 'moby dick')- hitchhiker's guide to galaxy all time favorite
     - i love video games (all time fav - bloodborne, tlou, rdr2, uncharted nathan drake triology and 4)
-    - i like listening to music (nirvana, AM, the beatles, radiohead, and hip hop like kendrick etc.., i'll link spotify soon)
+    - i like listening, sharing, and talking about music. hit me up for a jam session or recommendations :) 
 
 - **_[qubit](https://github.com/qu-bit1)_ interests:**
     - supercool ML stuff
@@ -44,12 +36,16 @@ how i spend my day:
 sometimes stuck in a youtube rabbithole, and sometimes crawling the internet uncovering ~hidden mysteries~ to ~~waste my time~~ and fill the ltd. amount of space in my head with ~~irrelevent stuff~~ (ever heard of langlands?)
 
 ---
+- github - [qu-bit1](https://github.com/qu-bit1)
+- ig - [sagarslacks](https://www.instagram.com/sagarslacks/)
+- discord - @qu.bit
+- spotify - [cataract](https://open.spotify.com/user/31er4il6lxtrqfmluryg6s7dztq4)
+---
+
 to-dos:
 
 - [ ] add spotify status here
-- [ ] add socials
-- [ ] add my face maybe
-- [ ] add projects/technical stuff maybe
+- [ x ] add socials
 - [ ] add comments for posts
 
 
