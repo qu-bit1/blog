@@ -16,7 +16,7 @@ why this(a new conondrum) -> i made this to help you guys solve world problems
 ---
 i'm sagar arora from new delhi
 
-i'm currently doing majors in biological sciences and bioengineering at IIT Kanpur.
+i'm currently doing my majors in biological sciences and bioengineering at IIT Kanpur.
 
 ---
 - **my interests:**
