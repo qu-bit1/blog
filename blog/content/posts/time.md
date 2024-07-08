@@ -1,20 +1,17 @@
 +++
-title = "time"
-date = "2024-07-09T011:50:43+05:30"
+title = "Time"
+date = "2024-07-09T04:35:48+05:30"
 author = ""
-authorTwitter = "quubitt" #do not include @
+authorTwitter = "" #do not include @
 cover = "takeshi-running.jpg"
 tags = ["music", "films"]
 keywords = ["", ""]
 description = ""
 showFullContent = false
 readingTime = true
-framed = false
-comments = true
 hideComments = false
-color = "yellow" #color from the theme settings
+color = "green" #color from the theme settings
 +++
-
 ---
 ## music
 recently i have developed a fondness for jazz, it somehow makes me dance and feel superior. other than that my music taste has taken a very wide curve from indie rock to alt rock to raw rock, now im stuck with april rain, white moth black butterfly(thanks chuckky xp). seriously go listen to them, you'll appreciate each instrument being played in their and the harmony they meddle into.
@@ -23,7 +20,8 @@ recently i have developed a fondness for jazz, it somehow makes me dance and fee
 this summers i took a course on 'introduction to chinese cinema' by Prof. Ritwij Bhowmik here at IITK. i have been analysing films from story, basic cinematography and a cinematic audience perspective. if you feel something different from usual in this review than others all thanks to him(and yea this is not a propoganda, i genuinely appreciate him and want to share how to appreciate the artistic expression in films)
 
 there's this wong kar wai collection always popping up on my mubi feed from a long time and yea the thumbnails were really catchy for instance 'FALLEN ANGELS' RAHHHHHH.
-![fallen angel](fallen-angels.jpg)
+
+![fallen angel](fallen.jpg)
 i really meant to give them a watch & im glad i waited after watching farewell my concubine and yiyi in ART707 classes, i experienced some sort of level up in film watching capabilities. YiYi directed by Edward Yang is a film which truly reflects what an art film means at first i didn't knew what to expect when it came to cinematography and his unique style and approach when we started the film. this ain’t a film that you’re going to watch once and be done with it. i for sure will be dwelling on it and its story for a long time, digesting what it means and reflect it with my own life, and returning to rewatch the movie again and again. it’s totally worth it. but yea this time it's not yiyi which im gonna rant about. it's chungking express.
 
 on the side note watch 'Perfect Days' it's about Hirayama who's he you may ask, he lives a beautiful life, spending his days balancing his job as a caretaker of tokyo’s public toilets with his passion for music, literature, and photography. his structured routine(inspired me to fix my sleep schedule lol) is slowly interrupted by unexpected encounters that force him to reconnect with his past.
@@ -59,6 +57,6 @@ i can never leave out cinematography in any film right? guess who was the cinema
 the film uses so many cinematographic techniques like focus blur, freeze frames, zooms, blurred zooms, tracking shots.
 I cannot describe how beautiful this blurry shots can feel, it just fits in like a cog in the machine, so satisfying describing the psychology of the characters time to time, portraying time. you just have to go and see for yourself. after chungking i recommend fallen angels, it will feel like the third part of chungking express.
 
-![im-a-cop](im-a-cop.jpg)
+![im-a-cop](im-a-cop.png)
 
 
