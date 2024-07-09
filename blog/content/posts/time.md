@@ -17,7 +17,7 @@ color = "green" #color from the theme settings
 recently i have developed a fondness for jazz, it somehow makes me dance and feel superior. other than that my music taste has taken a very wide curve from indie rock to alt rock to raw rock, now im stuck with april rain, white moth black butterfly(thanks chuckky xp). seriously go listen to them, you'll appreciate each instrument being played in there and the harmony they meddle into.
 
 ## which film this time?
-this summers i took a course on 'introduction to chinese cinema' by Prof. Ritwij Bhowmik here at IITK. i have been analysing films from story, basic cinematography and a cinematic audience perspective. if you feel something different from usual in this review than others all thanks to him(and yea this is not a propoganda, i genuinely appreciate him and want to share how to appreciate the artistic expression in films)
+this summers i took a course on 'introduction to chinese cinema' by Prof. Ritwij Bhowmik here at IITK. i have been analysing films from story, basic cinematography and a cinematic audience perspective. if you feel something different from usual in this review than others all thanks to him
 
 there's this wong kar wai collection always popping up on my mubi feed from a long time and yea the thumbnails were really catchy for instance 'FALLEN ANGELS' RAHHHHHH.
 
