@@ -10,8 +10,6 @@
       {{ partial "language-menu.html" . }}
     {{ end }}
   </div>
-  {{ template "_internal/google_analytics.html" . }}
-  {{ template "_internal/google_analytics_async.html" . }}
   {{ if len $.Site.Menus }}
     {{ partial "menu.html" . }}
   {{ end }}

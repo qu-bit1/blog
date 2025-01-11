@@ -39,7 +39,7 @@ sometimes stuck in a youtube rabbithole, and sometimes crawling the internet unc
 
 ---
 - github - [qu-bit1](https://github.com/qu-bit1)
-- ig - [sagarslacks](https://www.instagram.com/sagarslacks/)
+- ig - [sagarslacks](https://www.instagram.com/sagar.aroraaaa/)
 - discord - @qu.bit
 - spotify - [cataract](https://open.spotify.com/user/31er4il6lxtrqfmluryg6s7dztq4)
 ---
