@@ -7,6 +7,7 @@ cd ~/Code/jeevan-ke-dukh/blog/blog/
 git add .
 read -p "Enter commit message: " commit_message
 git commit -m "$commit_message"
+git pull origin main --rebase  # Add this line to pull changes first
 git push origin main
 
 # Build the Hugo site with the specified theme
@@ -18,6 +19,7 @@ cd public
 # Stage and commit changes in the 'public' repository
 git add .
 git commit -m "$commit_message"
+git pull origin main --rebase  # Add this line to pull changes first
 git push origin main
 
 # Navigate back to the original directory
