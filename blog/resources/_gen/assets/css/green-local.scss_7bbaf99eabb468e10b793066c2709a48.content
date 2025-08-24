@@ -175,7 +175,7 @@ input[type="checkbox"] {
     padding: 0; }
     .navigation-menu__inner > li {
       flex: 0 0 auto;
-      margin-bottom: 0px;
+      margin-bottom: 10px;
       white-space: nowrap; }
       .navigation-menu__inner > li:not(:last-of-type) {
         margin-right: 20px; }
