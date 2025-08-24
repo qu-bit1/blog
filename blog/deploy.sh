@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navigate to the blog directory
-cd ~/Code/jeevan-ke-dukh/blog/blog/
+cd ~/alles/blog/blog/
 
 # Stage and commit changes in the main repository
 git add .
